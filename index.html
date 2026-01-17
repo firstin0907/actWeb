@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    // Function to detect user's language
+    function redirectBasedOnLanguage() {
+      const userLang = navigator.language || navigator.userLanguage;
+
+      // Redirect based on language
+      if (userLang.startsWith('ko')) {
+        window.location.href = './ko/index.html'; // Redirect to Korean page
+      } else {
+        window.location.href = './en/index.html'; // Redirect to English page
+      }
+    }
+
+    // Call the function on page load
+    redirectBasedOnLanguage();
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>

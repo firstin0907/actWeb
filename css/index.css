@@ -1,0 +1,18 @@
+
+/* python -m http.server */ 
+body { padding: 16px; background: #f8f9fa; }
+.card-section { max-height: calc(100vh - 250px); overflow:auto; }
+.list-item { cursor: pointer; display:flex; justify-content:space-between; align-items:center; padding:6px 10px; border-radius:6px; }
+.list-item:hover { background: rgba(0,0,0,0.03); }
+.list-item.selected { background: linear-gradient(90deg, rgba(0,0,0,0.06), rgba(0,0,0,0.02)); border-left:4px solid rgba(0,0,0,0.12); }
+.type-badge { font-size:0.75rem; color:#6c757d; }
+#selectedPanel { background:#ffffff; border-radius:6px; padding:10px; min-height:120px; }
+#selectedPanel .sel-row { display:flex; justify-content:space-between; align-items:center; padding:6px 8px; border-radius:6px; margin-bottom:6px; }
+#selectedPanel .sel-row .term { font-weight:600; }
+.remove-btn { font-size:0.9rem; color:#dc3545; border:0; background:transparent; padding:0 6px; }
+.search-box { width:100%; }
+.small-note { font-size:0.85rem; color:#6c757d; }
+
+.card {
+  flex: 1;
+}

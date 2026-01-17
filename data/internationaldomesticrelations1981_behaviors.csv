@@ -1,0 +1,239 @@
+term,E,P,A,E2,P2,A2
+Merging voluntarily into one nation state,2.4,1.6,1.9,2.2,2.2,0.7
+Forming one nation with one legally binding government,1.9,1.5,1.5,2.3,2.3,0.7
+Fighting aWar jointly,0.1,1.5,1.9,0.9,1.4,0.7
+Establishing aJoint military command or alliance,0.8,1.1,0.9,1,1.8,0.4
+Conducting joint military maneuvers,0.6,1.1,1,1.4,1.3,0
+Establishing an economic common market,2.2,1,1,1.1,2.2,-0.1
+Joining or organizing international alliances,1,1.3,0.6,1.5,1.6,0
+Establishing joint program to raise the global quality of life,2.8,1.3,0.9,2.8,2,0.6
+Selling nuclear power plants and material,-0.3,1.6,1,-0.6,2.1,0.2
+Providing air naval or land facilities or bases,0.7,0.2,0.2,0.6,1.2,-0.3
+Giving military technical or advisory assistance,1,1.3,0.9,0.9,1.1,0.1
+Concluding military agreements,0.7,0.8,0.5,1.2,1.4,-0.4
+Granting military aid,0.6,0.9,0.9,0.6,1.4,0.2
+Training military personnel,0.3,0.8,0.6,0.5,1.1,0.4
+Intervening with military support by request,0.7,1.5,1.5,0.8,1.4,0.9
+Making economic loans grants,1.9,1.6,0.5,2.3,1.8,0.3
+Agreeing to economic pacts,1.8,1.3,0.6,1.9,1.6,-0.8
+Giving industrial cultural educational assistance,2.3,1.3,0.7,2.4,1.3,-0.1
+Conducting trade agreements,1.8,0.9,0.7,2.2,1.3,0.2
+Granting most favored nation status,1.7,1.3,0.3,2.1,1.5,0.4
+Establishing common transportation communications,2,0.8,1,2.3,1.3,0.7
+Selling industrial technological surplus supplies,1,0.7,0.3,1.5,1,0
+Providing technical expertise,1.8,1.4,0.6,1.7,1.4,0.1
+Ceasing economic restrictions,1.5,1,0.3,1.3,1.4,-0.3
+Repaying debts,2,0.9,0.3,2.3,1.3,-1
+Selling nonmilitary goods,1.4,0.6,-0.3,1.8,1.1,-0.7
+Giving disaster relief,2.2,1.1,0.7,2.6,1.9,-0.2
+Sharing highly advanced technology,1.9,1.6,1,2.1,1.5,0.8
+Joint programs plans to initiate pursue disarmament,2.1,1.4,1,2.3,1.9,-0.5
+Starting diplomatic relations,2.1,1,0.8,2.1,1.7,0.3
+Establishing technological and scientific communications,2,0.7,0.4,1.8,1.5,0.3
+Proposing or offering economic or military aid,1.1,1.3,0.4,1,1.3,-0.2
+Recognizing governments,1.5,0.6,0.3,1.5,1.3,-0.3
+Opening borders,0.6,1,0.8,1.6,1.6,0.2
+Conducting or elevating friendship agreements,1.7,0.7,0.3,1.9,0.9,-0.4
+Conducting cultural academic agreements exchanges,2,0.9,0.3,2.2,1.2,-0.4
+Official support of policy,1.4,0.7,0.7,1.6,0.6,-0.1
+Raising aDelegation to an embassy,1.8,0.6,0.9,1.8,0.8,-0.3
+Reaffirming friendship,1.6,0.6,0.7,2.1,1.2,0
+Apologizing for unfavorable statements and actions,1.4,0.2,0.3,1.5,0.3,0
+Allowing press correspondents entry,1.8,0.6,0.7,1.8,1.1,0.3
+Thanking for aid,1.8,-0.1,0.3,1.9,0.2,0
+Resuming broken diplomatic or other relations,1.7,0.5,0.8,2.1,1.5,-0.2
+Compensating for nationalized confiscated properties,-0.1,0.1,0.1,-0.3,0.1,-0.6
+Meeting of high officials,1.4,0.5,0.7,1.9,1.1,0.2
+Conferring on problems of mutual interest,1.7,0.8,0.5,2,1,-0.2
+Visits by lower officials talks,1.2,0.1,-0.1,1.4,0.3,-0.6
+Issuing joint communiques,0.9,0.3,0.5,0.8,0.1,-0.4
+Appointing ambassadors,1.1,0.4,0.7,1.5,0.9,-0.7
+Announcing aCease fire,1.9,0.7,0.8,2.1,1.2,0
+Nongovernmental exchanges and visitors,1,0.3,0.3,1.2,0.3,-0.4
+Proposing talks,1.6,0.5,0.5,1.6,1,-0.1
+Public non governmental support of regime,0.6,0,0.6,1.1,0.4,0.4
+Exchanging prisoners of war,1.8,0.5,0.5,1.8,0.8,-0.1
+Asking for support of policy,0.5,-0.3,0,1,0.1,-0.6
+Requesting change of policy,1.3,0.7,0.3,1.4,0.9,0
+Asking for help against aThird party,0,0,-0.2,0.6,0.4,-0.5
+Official verbal support of goals values regime,0,0.6,0.2,0.3,0.7,0.1
+Rhetorical policy statements,-0.1,-0.3,0.6,-0.1,-0.4,0.6
+Non consequential news items,-0.1,-0.4,-0.1,-0.2,-0.8,-0.1
+Statements of indifference,-0.2,-0.5,-0.3,-0.5,-0.6,-0.3
+No comment statements,-0.1,0.1,0.1,-0.3,0.1,0.1
+Low key objection to policies or behavior,-0.3,-0.2,0.3,-0.9,-0.6,0.1
+Communicating dissatisfaction through third party,-0.3,-0.2,0.3,-0.9,-0.6,-0.1
+Recalling ambassador for emergency consultations,-0.3,0.5,0.8,-0.2,0.4,0.6
+Warning of retaliation for acts,-0.8,1.3,1.3,0.01,1.1,0.5
+Failing to reach an agreement,-1.2,-0.5,0.5,-1.2,-0.2,-0.3
+Refusing aProtest note,-0.6,0.2,0.6,-1.1,0.4,0.2
+Denying accusations,-0.1,-0.1,0.4,-0.4,-0.5,0.2
+Objecting to explanations of goals positions etc,-1,-0.3,0.5,-0.9,0.1,0.3
+Making threatening demands and accusations,-1.2,0.6,0.9,-1.4,0,1
+Condemning strongly specific actions and policies,-0.6,0.3,1.1,-0.4,0.8,1
+Granting sanctuary to opposition leaders,0.6,0.7,0.3,-0.2,0.7,0
+Denouncing leaders system or ideology,-1,0,1.4,-0.8,0.3,1.5
+Postponing visits by heads of state,-0.8,0.3,-0.3,1.1,0.4,0
+Refusing participation in meetings or summits,-1.2,0.4,0.5,-1.6,0.1,0.4
+Leveling strong propaganda attacks,-1,0.7,1.3,-1.6,0.6,1.3
+Denying support,-0.8,0.5,0.5,-1,0.4,0.4
+Blocking or vetoing policy or opposition,-0.7,1,0.6,-0.8,1,0
+Increasing troop movements,-1.2,1.4,1.6,-0.9,1.3,0.7
+Boycotts,-1,1,0.7,-1,1,0.3
+Imposing economic sanctions,-1,0.5,0.5,-0.5,1.1,-0.2
+Hindering movement through land waterways or air,-1.4,0.5,1.2,-1.6,0.7,0.4
+Embargoing goods,-2.1,0.9,0.4,-1.3,0.9,-0.6
+Refusing mutual trade rights,-1.4,0.4,0.5,-1.6,0.7,0.4
+Closing borders and blocking free communications,-1.9,0.8,1.2,-1.8,1.2,1.2
+Manipulating trade currency to cause economic problems,-2,1.3,1.2,-2,2,0.1
+Halting aid,-1,1,0.8,-1.3,1.1,0.5
+Mobilizing hostile demonstrations at target country,-0.7,0.8,1,-1.4,0.6,1.6
+Refusing to support foreign military allies,-0.8,0.4,0.6,-1.8,0.2,0.3
+Refusing visas to other national,-1.1,0,0.2,-1,0.6,0.3
+Restricting movement of other nationals in country,-1.4,0.7,0.6,-1.5,0.6,0.1
+Expelling or arresting nationals or press,-1.9,0.6,1.2,-1.8,0.2,1.4
+Spying on foreign government officials,-1.2,0.6,0.6,-1.8,0.6,-0.2
+Terminating major agreements,-1.2,0.3,0.7,-1.5,1.3,0.3
+Inciting riots and rebellions,-1.6,1,1.3,-1.5,0.8,1.7
+Training and financially aiding rebellions,-0.9,1.1,1.5,-1.3,1,1.1
+Encouraging guerrilla activity,-0.9,1,1.2,-1.7,0.3,1
+Limited and sporadic terrorist activities,-2,0.6,1.2,-1.8,0.3,1.6
+Giving sanctuary to terrorists,-1.7,0.8,0.8,-1.5,0.4,0.9
+Breaking diplomatic relations,-1.3,0.5,1.3,-1.5,0.7,0.7
+Expelling military advisors,-0.7,0.6,1.6,-0.7,0.6,1.5
+Nationalizing companies without compensation,-1.5,1.1,1.5,-2.1,1,1.7
+Attacking diplomats or embassies,-2.1,0.4,1.4,-2.1,0.1,1.5
+Limited air sea or border skirmishes,-1.3,1.3,1.5,-1.6,0.8,0.9
+Border police acts,-0.9,0.7,1.2,-0.7,0.6,0.5
+Annexing territory already occupied,-1.8,1.6,1.8,-1.9,1.4,0.5
+Seizing material of target country,-1,1.5,1.2,-1.1,1.8,1.1
+Imposing blockades,-1.4,1.6,1.6,-1.2,1.7,0.5
+Kidnapping or torturing foreign citizens or prisoners,-2,0.5,1.4,-3.2,0.2,0.8
+Material support subversive activities in target country,-1.3,1,1.5,0.4,1.7,0.6
+Capturing soldiers in battle,-0.4,1.1,1.1,0.4,1.7,0.6
+Intermittent shelling or clashes,-1.3,0.6,1.4,-1.8,0.7,1
+Sporadic bombing of military industrial area,-2.2,1.6,1.9,-1.5,1.1,1.5
+Small scale interception or sinking of ships,-1.6,0.8,1.4,-2,0.7,1
+Mining of territorial waters,-1.6,1.2,1.1,-1.7,1.3,0.7
+Assassinating leader of target country,-2.5,0.8,2,-2.5,1,2
+Use of atomic or nuclear weapons,-3.4,2.7,2.7,-2.9,2.2,2.5
+Full scale air naval or land battles,-2.6,2.3,2.7,-2.7,2.2,2.3
+Invasion of territory,-2.6,2.4,2.7,-2.5,1.3,1.9
+Massive bombing of civilian areas,-3.3,2,2,-3.4,1.8,1.9
+Large scale bombing of military installations,-1.4,2.2,2.2,-1.5,2,1.9
+Occupation of territory,-2.3,1.7,1.8,-2.1,1.5,1.3
+Chemical or biological warfare,-3.1,1.6,2.4,-3.6,1,2.4
+Conduct campaigns of genocide,-3.4,2,2.2,-4,1.4,2.4,
+Guarantee energy food and basic resources to all parts of society,2.2,1.4,0.8,3.2,2.4,0.7
+Investing substantially in reducing illiteracy,1.9,1.3,0.9,2.4,1.6,0.0
+Starting social welfare programs,1.7,1.1,0.8,1.8,1.2,0.2
+Establishing structures to protect the individual from the state,2.4,1.7,1.0,2.4,1.4,0.5
+Coming to the aid of disadvantaged ethnic or poverty stricken groups,2.1,1.6,0.7,2.6,1.3,0.2
+Legislating suffrage regardless of sex race or origin,2.3,1.8,0.7,2.5,2.2,0.6
+Reducing the rate of infant or child mortality,2.4,1.4,1.0,2.6,1.5,1.1
+Writing social security labor and retirement insurance laws,1.9,1.3,0.4,1.8,1.4,-0.8
+Cooperation to protect freedom and the good life,2.4,0.7,0.7,3.1,2.6,0.7
+Enacting laws to protect rights of minorities,2.0,1.6,1.0,2.5,1.8,0.0
+Lifting of total censorship or curfew,2.3,1.5,1.0,2.0,1.4,0.1
+Upholding constitutional rights by higher courts,2.3,1.8,0.6,2.5,2.2,-0.7
+Holding free elections of high officials,2.5,1.5,0.7,2.8,2.4,-0.1
+Reform the judicial constitutional educational etc.Systems,1.6,1.0,1.0,1.7,1.5,0.2
+Restore normal constitutional life,2.5,0.8,1.0,2.5,1.9,0.2
+Reinstitute voluntary assemble,1.9,1.2,0.7,2.0,1.4,0.0
+Return revoked citizenships,1.6,0.8,0.7,1.3,0.9,0.3
+Remove restrictions against voting,1.7,1.4,0.7,2.6,1.7,0.5
+Allow media criticism of government,2.2,1.3,0.6,2.5,2.1,0.3
+Release political prisoners,1.9,1.2,0.8,1.9,0.9,0.3
+Granting amnesty to leaders and exiled nationals,1.6,1.0,0.8,1.2,0.8,0.5
+Remove partial political censorship and curfew,1.6,1.0,0.7,1.9,0.7,0.5
+Reopen public facilities and permit free trade,2.0,1.5,0.7,2.6,1.5,0.5
+Open universities and schools that were closed for political unrest,2.0,1.2,0.7,1.8,1.0,0.8
+Initiate agrarian reform,2.1,1.3,1.0,2.2,1.7,0.5
+Grant laborers share in corporate decision making,1.9,1.0,1.1,1.9,1.1,0.9
+Alter taxes making them more equitable,1.3,1.3,0.6,1.4,1.5,0.0
+Starting new educational institutions,2.2,1.1,1.2,2.2,1.5,0.6
+Improving the income distribution of individuals and corporations,1.9,1.4,0.7,2.1,1.9,0.0
+Release frozen accounts of opposition,1.1,1.2,0.4,1.5,1.2,-0.2
+Return expropriated property,1.9,1.0,0.7,1.9,0.8,-0.4
+Domestic cease fire from unions,1.5,0.6,0.8,1.0,1.5,0.7
+Participating in political economic and cultural life of the nation,1.9,0.9,0.5,2.4,1.5,0.1
+The surrendering of rebels,0.3,-0.2,0.2,0.9,0.0,0.4
+Ending hunger strikes,0.8,0.1,-0.1,1.2,0.1,-0.4
+Public showing support of government,1.6,1.2,0.6,2.4,2.0,0.1
+Political support for legislation to reduce structural inequalities,2.0,1.0,0.4,2.1,1.3,0.1
+Public joins in support of governments external policies,1.5,1.1,0.5,1.9,1.7,0.2
+Improving the level of technology,1.2,0.6,1.6,1.8,0.5,2.2
+Constructing port facilities and transportation modes,1.8,1.0,1.0,2.0,1.2,0.4
+Adopting policies facilitating free movement of goods and services,1.8,1.2,0.6,2.3,1.8,0.0
+Enacting laws to protect the environment,2.5,1.5,0.8,1.8,1.7,0.8
+Requesting public support for domestic and foreign policy,1.1,0.0,-0.1,1.5,0.8,-0.6
+Agreeing to confer to study social welfare legislation,1.4,0.3,0.4,1.9,1.1,0.1
+Exploring means to improve economic and industrial conditions in country,2.0,1.1,0.3,2.1,1.4,-0.5
+Agreeing to study complaints of public,1.7,0.7,-0.2,0.7,0.8,-0.3
+Government and opposition talk about mutual public concerns,1.9,0.0,0.0,2.4,1.5,0.0
+Government and labor representatives meet or agree to change conditions,1.7,1.1,0.5,2.0,1.7,0.1
+Negotiating the release of kidnapped persons,1.9,0.7,0.4,2.1,0.9,-0.2
+Dismissing corrupt public officials,1.7,1.0,1.0,1.7,1.2,0.3
+Government moves to ease internal tension,2.0,1.2,1.2,1.7,1.4,0.2
+Reporting on matters of state budget imports etc,0.9,0.7,-0.2,1.5,0.7,-0.4
+Electing low level officials,1.5,0.5,-0.2,1.7,1.0,-0.6
+Appointing ministers and cabinet officials,0.6,0.1,0.1,0.7,0.7,-0.4
+Reporting of news events,1.4,0.5,0.3,1.8,1.3,0.8
+Celebrating holidays,0.8,0.3,0.8,2.0,-0.1,0.6
+Announcing problems being studied,0.4,0.2,-0.1,1.6,0.6,-0.6
+Issuing rhetorical statements,-0.2,-0.1,0.4,-0.1,-0.4,0.0
+Reshuffling or dismissing cabinet for political conflict reasons,-0.5,0.3,1.0,-0.7,0.4,0.3
+Intragovernmental conflictive actions or statements,-1.0,-0.6,0.0,-1.2,0.2,0.3
+Governmental resignation due to political problems,0.1,-0.2,0.1,0.0,0.5,0.3
+Demanding the release of jailed or detained opposition,1.7,0.4,0.8,1.1,0.0,0.8
+Requesting ouster of unpopular officials,0.6,0.2,0.7,0.7,0.5,0.8
+Accusing the government of arbitrary acts of injustice or revenge,0.3,0.0,1.2,0.0,0.4,1.2
+Lining up against governmental policies,0.3,0.6,0.7,0.1,0.7,1.1
+Limited strikes and threats,-0.3,0.5,0.6,-0.7,1.1,0.6
+Distribution and or confiscation of antiregime propaganda,-0.9,0.1,1.1,-1.2,0.9,0.3
+Calling for aGeneral strike or civil armed resistance,-1.4,0.6,1.4,-1.5,0.4,1.6
+Inciting riots or retaliatory acts,-1.6,0.4,1.5,-1.5,0.4,1.6
+Threatening strikes,-0.7,0.8,0.8,-0.7,1.1,0.9
+Short term restrictions on travel and internal movement,-1.4,0.5,0.7,-1.3,0.8,0.3
+Mobilizing aDraft to conduct wars,-0.9,1.1,0.9,-0.9,0.5,0.6
+Imposing aPartial curfew,-1.3,0.2,1.3,-1.3,0.7,0.6
+Imposing partial censorship,-1.4,0.4,1.2,-2.1,0.7,0.3
+Imposing taxes to conduct wars,-1.0,1.3,0.4,-1.0,1.5,-0.4
+Devaluating currency without compensation,-1.5,-0.1,0.7,-1.9,1.3,0.4
+Rejecting ideas of social legislation reform,-2.3,0.2,-0.3,-1.2,0.7,0.0
+Rejecting initiation of health education or welfare programs,-1.8,0.6,0.2,-2.0,0.7,0.4
+Accuse opposition of treason,-1.1,0.3,0.9,-0.8,0.5,0.5
+Charging opposition with violent acts and destruction,-0.7,0.0,0.9,-0.4,0.6,0.9
+Abolishing minor social welfare programs,-0.8,0.2,0.1,-1.1,0.7,0.0
+Forbidding public gatherings,-2.2,0.4,1.0,-2.7,1.2,0.0
+Canceling passports of citizens,-1.9,0.9,1.1,-1.2,0.8,0.6
+Detaining opposition leaders or placing under house arrest,-2.0,0.9,0.8,-1.8,1.1,0.5
+Freezing accounts of opposition,-1.9,0.5,0.8,-1.8,0.8,0.6
+Restricting the use of public facilities and closing airports,-2.2,0.8,1.3,-1.9,1.1,0.9
+Revoke citizenships for political reasons,-1.9,0.8,1.4,-2.3,1.0,0.3
+Expropriating private property without compensation,-2.5,1.1,1.3,-2.2,1.1,1.0
+Dismissing judges arbitrarily,-2.4,0.8,1.2,-2.1,0.8,1.2
+Evicting citizens arbitrarily,-2.4,0.8,1.3,-2.5,0.7,0.8
+Closing universities and schools for political reasons,-2.3,0.7,0.6,-2.4,0.7,0.6
+Large scale stocking of arms by private citizens,-2.5,0.2,1.4,-2.4,0.1,1.2
+Creating private militia,-2.4,0.5,1.2,-1.7,-0.3,1.1
+Large scale riots and general strikes,-2.3,1.0,1.8,-2.4,1.2,1.8
+Extensive violence in the streets,-2.2,0.0,1.6,-2.3,0.4,1.6
+Pursuing and crushing liberation movements,-1.5,1.1,1.4,-2.0,1.6,1.5
+Coup detat,-1.4,1.5,2.1,-1.7,1.9,2.4
+Mass arrests,-2.7,0.6,1.8,-2.5,1.1,1.7
+Abolition of civil rights dissolving parliament,-1.8,0.7,0.8,-2.0,1.1,1.4
+Imposing martial law,-2.2,1.4,1.7,-2.7,1.5,1.4
+Imposing aTotal curfew,-2.4,1.4,1.5,-2.3,1.1,1.5
+Abolishing civil courts and political rights and freedoms,-3.0,1.5,1.7,-3.3,1.3,1.1
+Arrests of dissident journalists or opposition leaders,-2.5,1.0,1.7,-2.5,0.7,1.5
+The control of public media facilities total censorship by the military,-2.7,1.4,1.4,-2.7,1.7,0.4
+Abolishing social welfare programs affecting large portions of society,-2.4,0.7,1.1,-2.1,1.2,1.0
+Violating ethnic and individual rights,-2.1,0.9,1.3,-2.9,0.6,0.8
+Torturing prisoners,-3.1,1.1,1.8,-3.6,1.0,0.9
+Executing political prisoners and enemies of the state,-2.4,0.9,1.4,-2.5,0.9,1.3
+Kidnapping or assassinations of public officials,-2.6,0.7,1.2,-2.8,1.0,1.8
+Large scale bombing and terrorist activities,-2.5,1.4,2.2,-2.8,0.7,2.4
+Execution of public officials by the opposition or government,-2.8,1.0,1.5,-2.9,1.0,1.9
+An ethnic internal war,-2.7,0.3,1.7,-2.9,0.5,1.9
+Conducting campaigns of extermination,-3.5,1.2,1.8,-3.7,1.2,1.9,
